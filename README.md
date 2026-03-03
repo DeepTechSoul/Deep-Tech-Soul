@@ -17,8 +17,7 @@ I'm passionate about turning messy real-world data into clear, actionable insigh
 | [Rainfall Prediction — Mumbai](https://github.com/DeepTechSoul/Rainfall-Prediction) | Regression | Python, XGBoost, Streamlit |
 | [Shooting Incident Fatality](https://github.com/DeepTechSoul/Shooting-Incident-Fatality) | Classification | Python, Scikit-learn, Streamlit |
 | [Product Cluster Analysis](https://github.com/DeepTechSoul/Product-Cluster-Analysis) | Clustering | Python, K-Means, Power BI |
----
-
+| [Appliance Energy Consumption](https://github.com/DeepTechSoul/Appliance-Energy-Consumption) | Regression | Python, Gradient Boosting, Scikit-learn |
 ## 🛠️ Skills
 
 **Languages & Tools:** Python, SQL, Power BI, Tableau, Streamlit  
