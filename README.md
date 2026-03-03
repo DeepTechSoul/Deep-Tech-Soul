@@ -12,13 +12,11 @@ I'm passionate about turning messy real-world data into clear, actionable insigh
 
 | Project | Type | Tools |
 |---|---|---|
-| [Used Car Price Prediction](./used-car-price-prediction) | Regression | Python, XGBoost, Streamlit |
-| [Hotel Reservation Cancellation](./hotel-cancellation-prediction) | Classification | Python, Random Forest, Streamlit |
-| [Rainfall Prediction — Mumbai](./rainfall-prediction-mumbai) | Regression | Python, XGBoost, Streamlit |
-| [Shooting Incident Fatality Classification](./shooting-incident-fatality) | Classification | Python, Scikit-learn, Streamlit |
-| [Product Cluster Analysis](./product-cluster-analysis) | Clustering | Python, K-Means, Power BI |
-| [Appliance Energy Consumption](./appliance-energy-consumption) | Regression | Python, Gradient Boosting |
-
+| [Used Car Price Prediction](https://github.com/DeepTechSoul/used-car-price-prediction) | Regression | Python, XGBoost, Streamlit |
+| [Hotel Reservation Cancellation](https://github.com/DeepTechSoul/Hotel-Cancellation) | Classification | Python, Random Forest, Streamlit |
+| [Rainfall Prediction — Mumbai](https://github.com/DeepTechSoul/Rainfall-Prediction) | Regression | Python, XGBoost, Streamlit |
+| [Shooting Incident Fatality](https://github.com/DeepTechSoul/Shooting-Incident-Fatality) | Classification | Python, Scikit-learn, Streamlit |
+| [Product Cluster Analysis](https://github.com/DeepTechSoul/Product-Cluster-Analysis) | Clustering | Python, K-Means, Power BI |
 ---
 
 ## 🛠️ Skills
